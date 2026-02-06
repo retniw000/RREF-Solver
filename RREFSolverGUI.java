@@ -1,14 +1,4 @@
-/* GROUP 9
---- MEMBERS ---
-BULAN, Zaldy Marcus
-CO, Emerson
-ENRIQUE, Lanz Aaron
-PARREÑO, Jonh Biel
-MALLAN, Randyl
-YUKAWA, Rei Emerson
 
-Submitted to: Prof Patrick Sta. Maria
-*/
 import java.awt.*;
 import java.text.DecimalFormat;
 import javax.swing.*;
@@ -353,4 +343,5 @@ public class RREFSolverGUI extends JFrame {
         // run on edt for safety
         SwingUtilities.invokeLater(() -> new RREFSolverGUI().setVisible(true));
     }
+
 }
